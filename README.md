@@ -1,0 +1,2 @@
+# dumb-xss-test
+stupid
